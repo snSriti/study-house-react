@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Bangla",
+    "time": 30,
+    "description": "In this time I want to reading this subject. Because I feel comfort this time",
+    "img": "https://static1.eboighar.com/thumbimages/Books/book_77432022-03-19_1647685380.jpg"
+  },
+  {
+    "id": 2,
+    "name": "English",
+    "time": 45,
+    "description": "In this time I want to reading this subject. Because I feel comfort this time",
+    "img": "https://html.scribdassets.com/wvgpfwbwg6758lj/images/1-d94b6ec632.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Economics",
+    "time": 30,
+    "description": "In this time I want to reading this subject. Because I feel comfort this time",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-MG73Gg_epWqteR39CtEpUzD2eeob7k0NFg&usqp=CAU"
+  },
+  {
+    "id": 4,
+    "name": "History",
+    "time": 45,
+    "description": "In this time I want to reading this subject. Because I feel comfort this time",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYECljFZICT8g9R-FpB8QIgpMst5quEA4wgw&usqp=CAU"
+  },
+  {
+    "id": 5,
+    "name": "ICT",
+    "time": 30,
+    "description": "In this time I want to reading this subject. Because I feel comfort this time",
+    "img": "https://www.admissionwar.com/wp-content/uploads/2018/06/hsc-ict-book-1www.admissionwar.com_-223x300.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Islamic Studies",
+    "time": 45,
+    "description": "In this time I want to reading this subject. Because I feel comfort this time",
+    "img": "https://wafilife-media.wafilife.com/uploads/2020/05/137.jpg"
+  }
+]
